@@ -1,0 +1,10 @@
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\bin\Debug\DamaTahtasi.exe.config
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\bin\Debug\DamaTahtasi.exe
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\bin\Debug\DamaTahtasi.pdb
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.Form1.resources
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.exe
+C:\Users\Mehmet\source\repos\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.pdb
